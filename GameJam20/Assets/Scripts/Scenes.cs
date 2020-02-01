@@ -11,13 +11,13 @@ public class Scenes : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     public void Scene1()
@@ -26,7 +26,7 @@ public class Scenes : MonoBehaviour
         {
             SceneManager.LoadScene("Scene-1");
         }
-        
+
     }
     public void Scene2()
     {
@@ -34,7 +34,7 @@ public class Scenes : MonoBehaviour
         {
             SceneManager.LoadScene("Scene-2");
         }
-       
+
     }
     public void Scene3()
     {
@@ -42,7 +42,8 @@ public class Scenes : MonoBehaviour
         {
             SceneManager.LoadScene("Scene-3");
         }
-        
-    }
 
+    }
 }
+
+   
