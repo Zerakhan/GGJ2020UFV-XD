@@ -15,4 +15,10 @@ public class Scene1 : MonoBehaviour
     {
         
     }
+
+    private void OnTriggerStay2D(Collider2D collision)
+    {
+        
+        
+    }
 }

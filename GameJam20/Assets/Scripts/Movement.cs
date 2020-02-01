@@ -13,6 +13,7 @@ public class Movement : MonoBehaviour
     public GameObject escondite4;
     public Vector3 escondido;
     public bool audifono;
+    public static bool can_move;
     // Update is called once per frame
     void Update()
     {
@@ -21,6 +22,7 @@ public class Movement : MonoBehaviour
     }
     void Move()
     {
+        if (can_move) return;
         if (Input.GetKeyDown(KeyCode.Mouse0))
         {
             targetPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
