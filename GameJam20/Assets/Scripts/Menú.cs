@@ -17,7 +17,7 @@ public class Menú : MonoBehaviour
         
     }
 
-    void New_Game()
+    public void New_Game()
     {
         SceneManager.LoadScene("Niveles");
     }
