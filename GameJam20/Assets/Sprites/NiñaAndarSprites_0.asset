@@ -1,0 +1,399 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6558218823610588688
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e715ea371f114f4a8d2584ad476634d, type: 3}
+  m_Name: "Ni\xF1aAndarSprites_0_Data"
+  m_EditorClassIdentifier: 
+  m_PivotPoint: {x: 1198.6284, y: 3383}
+  m_Vertices:
+  - {x: 1170.1444, y: 3421.408}
+  - {x: 1154.7284, y: 3402.5662}
+  - {x: 1154.7284, y: 3346.0408}
+  - {x: 1235.2343, y: 3346.0408}
+  - {x: 1243.7987, y: 3361.4568}
+  - {x: 1243.7987, y: 3380.2986}
+  - {x: 1192.412, y: 3421.408}
+  - {x: 1215.1078, y: 3367.309}
+  - {x: 1194.9813, y: 3346.0408}
+  - {x: 1218.1053, y: 3400.8533}
+  - {x: 1181.4517, y: 3379.0012}
+  m_BoneWeights:
+  - weight0: 1
+    weight1: 0
+    weight2: 0
+    weight3: 0
+    boneIndex0: 1
+    boneIndex1: 0
+    boneIndex2: 0
+    boneIndex3: 0
+  - weight0: 1
+    weight1: -0
+    weight2: 0
+    weight3: 0
+    boneIndex0: 1
+    boneIndex1: 0
+    boneIndex2: 0
+    boneIndex3: 0
+  - weight0: 0.68658566
+    weight1: 0.31341434
+    weight2: 0
+    weight3: 0
+    boneIndex0: 1
+    boneIndex1: 0
+    boneIndex2: 0
+    boneIndex3: 0
+  - weight0: 0.9999139
+    weight1: 0.000086119224
+    weight2: 0
+    weight3: 0
+    boneIndex0: 0
+    boneIndex1: 1
+    boneIndex2: 0
+    boneIndex3: 0
+  - weight0: 1
+    weight1: 0
+    weight2: 0
+    weight3: 0
+    boneIndex0: 0
+    boneIndex1: 1
+    boneIndex2: 0
+    boneIndex3: 0
+  - weight0: 0.96367466
+    weight1: 0.036325347
+    weight2: 0
+    weight3: 0
+    boneIndex0: 0
+    boneIndex1: 1
+    boneIndex2: 0
+    boneIndex3: 0
+  - weight0: 0.91033095
+    weight1: 0.089669034
+    weight2: 0
+    weight3: 0
+    boneIndex0: 1
+    boneIndex1: 0
+    boneIndex2: 0
+    boneIndex3: 0
+  - weight0: 0.9629202
+    weight1: 0.037079792
+    weight2: 0
+    weight3: 0
+    boneIndex0: 0
+    boneIndex1: 1
+    boneIndex2: 0
+    boneIndex3: 0
+  - weight0: 1
+    weight1: 0
+    weight2: 0
+    weight3: 0
+    boneIndex0: 0
+    boneIndex1: 1
+    boneIndex2: 0
+    boneIndex3: 0
+  - weight0: 0.5998177
+    weight1: 0.4001823
+    weight2: 0
+    weight3: 0
+    boneIndex0: 0
+    boneIndex1: 1
+    boneIndex2: 0
+    boneIndex3: 0
+  - weight0: 0.7744427
+    weight1: 0.22555734
+    weight2: 0
+    weight3: 0
+    boneIndex0: 1
+    boneIndex1: 0
+    boneIndex2: 0
+    boneIndex3: 0
+  m_Edges:
+  - index1: 1
+    index2: 0
+  - index1: 2
+    index2: 1
+  - index1: 3
+    index2: 8
+  - index1: 4
+    index2: 3
+  - index1: 5
+    index2: 4
+  - index1: 6
+    index2: 9
+  - index1: 0
+    index2: 6
+  - index1: 8
+    index2: 2
+  - index1: 9
+    index2: 5
+  m_Holes: []
+  m_Indices: 020000000a0000000800000000000000060000000a000000040000000300000007000000000000000a00000001000000070000000300000008000000070000000a00000009000000090000000a0000000600000002000000010000000a0000000900000005000000070000000500000004000000070000000a0000000700000008000000
+  m_BindPoses:
+  - bindPose:
+      e00: -0.999531
+      e01: -0.030634124
+      e02: 0
+      e03: 0.53468955
+      e10: 0.030634124
+      e11: -0.999531
+      e12: 0
+      e13: -0.2199571
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 36.751953
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    boneLength: 0.8024133
+    path: Cuello/Cabeza/Mechon_sup1
+    name: Mechon_sup1
+    color: {r: 1, g: 0, b: 0, a: 1}
+    zOrder: 0
+  - bindPose:
+      e00: 0.03703193
+      e01: 0.9993145
+      e02: 0
+      e03: 0.23755698
+      e10: -0.9993145
+      e11: 0.03703193
+      e12: 0
+      e13: -0.25223643
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 36.751953
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    boneLength: 0.55692756
+    path: Cuello/Cabeza/Mechon_sup1/Mechon_sup2
+    name: Mechon_sup2
+    color: {r: 1, g: 0.75, b: 0, a: 1}
+    zOrder: 0
+  m_Blendshapes: []
+--- !u!43 &-6242131699449117455
+Mesh:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "Ni\xF1aAndarSprites_0"
+  serializedVersion: 10
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 33
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 11
+    localAABB:
+      m_Center: {x: 0.006351322, y: 0.007243648, z: 0}
+      m_Extent: {x: 0.44535157, y: 0.37683594, z: 0}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose:
+  - e00: -0.999531
+    e01: -0.030634124
+    e02: 0
+    e03: 0.53468955
+    e10: 0.030634124
+    e11: -0.999531
+    e12: 0
+    e13: -0.2199571
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  - e00: 0.03703193
+    e01: 0.9993145
+    e02: 0
+    e03: 0.23755698
+    e10: -0.9993145
+    e11: 0.03703193
+    e12: 0
+    e13: -0.25223643
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_BonesAABB:
+  - m_Min: {x: 0.08402607, y: -0.6057609, z: 0}
+    m_Max: {x: 0.98480606, y: 0.16067569, z: 0}
+  - m_Min: {x: -0.14803897, y: -0.70463, z: 0}
+    m_Max: {x: 0.6190712, y: 0.1937086, z: 0}
+  m_VariableBoneCountWeights:
+    m_Data: 
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 02000a000800000006000a0004000300070000000a00010007000300080007000a00090009000a000600020001000a000900050007000500040007000a0007000800
+  m_VertexData:
+    serializedVersion: 3
+    m_VertexCount: 11
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 24
+      format: 0
+      dimension: 4
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 1
+      offset: 0
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 2
+      offset: 0
+      format: 0
+      dimension: 4
+    - stream: 2
+      offset: 16
+      format: 10
+      dimension: 4
+    m_DataSize: 896
+    _typelessdata: 8fd691be14a6c43e000000000000000000000000000080bf0000803f17a8043500000000000080bfa4c4e0be855b483e000000000000000000000000000080bf0000803febc4e03500000000000080bfa4c4e0be333bbdbe000000000000000000000000000080bf0000803f6b49863500000000000080bf006cbb3e333bbdbe000000000000000000000000000080bf0000803f8ff7483400000000000080bf9a45e73e3d9a5cbe000000000000000000000000000080bf0000803f6aaddd3400000000000080bf9a45e73ecd4cddbc000000000000000000000000000080bf0000803f8a399b3400000000000080bf00a07ebd14a6c43e000000000000000000000000000080bf0000803f101204b500000000000080bfaebf283ecdac20be000000000000000000000000000080bf0000803f87ff59b500000000000080bf8f6215bd333bbdbe000000000000000000000000000080bf0000803ff5761bb500000000000080bf9a71473e48d1363e000000000000000000000000000080bf0000803f84417db500000000000080bfd7e32fbe3dca23bd000000000000000000000000000080bf0000803ff498533400000000000080bf00000000000000000594f13e4cae793f4265ee3e4c4e783f4265ee3e4c2e743f1f04ff3e4c2e743f6264003f4c4e753f6264003f4cae763fe52cf63e4cae793f68dcfa3ea1bb753fb0b4f63e4c2e743fd57afb3e4c2e783fa0e9f33e0f96763f00000000000000000000803f000000000000000000000000010000000000000000000000000000000000803f0000008000000000000000000100000000000000000000000000000014c42f3fd877a03e0000000000000000010000000000000000000000000000005bfa7f3fe89ab4380000000000000000000000000100000000000000000000000000803f0000000000000000000000000000000001000000000000000000000062b3763fe3c9143d000000000000000000000000010000000000000000000000730b693f66a4b73d000000000000000001000000000000000000000000000000f081763ffbe0173d0000000000000000000000000100000000000000000000000000803f00000000000000000000000000000000010000000000000000000000a78d193fb2e4cc3e000000000000000000000000010000000000000000000000e041463f81f8663e000000000000000001000000000000000000000000000000
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 0.006351322, y: 0.007243648, z: 0}
+    m_Extent: {x: 0.44535157, y: 0.37683594, z: 0}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshMetrics[0]: 1
+  m_MeshMetrics[1]: 1
+  m_MeshOptimizationFlags: 1
+  m_StreamData:
+    offset: 0
+    size: 0
+    path: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c10c0be6d28fe4d539c4a39822fe301c, type: 3}
+  m_Name: "Ni\xF1aAndarSprites_0"
+  m_EditorClassIdentifier: 
+  m_ApiVersion: 4
+  m_Sprite: {fileID: -9052350635715133595, guid: d98285a9280d5ea4d910a1d5ab640ad7,
+    type: 3}
+  m_SharedMesh: {fileID: -6242131699449117455}
+  m_SharedMaterials: []
