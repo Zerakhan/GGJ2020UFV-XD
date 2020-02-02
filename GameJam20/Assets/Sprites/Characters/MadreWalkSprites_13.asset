@@ -1,0 +1,247 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c10c0be6d28fe4d539c4a39822fe301c, type: 3}
+  m_Name: MadreWalkSprites_13
+  m_EditorClassIdentifier: 
+  m_ApiVersion: 4
+  m_Sprite: {fileID: -6017576533402540534, guid: 6371fedb60833464e850e240c7cdd82d,
+    type: 3}
+  m_SharedMesh: {fileID: 5905859373037822453}
+  m_SharedMaterials: []
+--- !u!43 &5905859373037822453
+Mesh:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MadreWalkSprites_13
+  serializedVersion: 10
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 33
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 15
+    localAABB:
+      m_Center: {x: 0.006431222, y: 0.011738777, z: 0}
+      m_Extent: {x: 3.168509, y: 4.881738, z: 0}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_BonesAABB: []
+  m_VariableBoneCountWeights:
+    m_Data: 
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 0200010000000000010003000100040003000400050003000300050006000500070006000600070008000900080007000c000b000a000a000b000d000e000d000b00
+  m_VertexData:
+    serializedVersion: 3
+    m_VertexCount: 15
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 24
+      format: 0
+      dimension: 4
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 1
+      offset: 0
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 2
+      offset: 0
+      format: 0
+      dimension: 4
+    - stream: 2
+      offset: 16
+      format: 10
+      dimension: 4
+    m_DataSize: 1216
+    _typelessdata: 6c2d34409f20a5bf000000000000000000000000000080bf0000803f419b81b300000000000080bf94f2034009d79bc0000000000000000000000000000080bf0000803f897224b200000000000080bf6c2d34408f7686c0000000000000000000000000000080bf0000803fd59069b400000000000080bf0a528f3f5d979c40000000000000000000000000000080bf0000803f1ba78fb100000000000080bfa4a298bf09d79bc0000000000000000000000000000080bf0000803f967b7ab300000000000080bf7153f0bf6f1999c0000000000000000000000000000080bf0000803f58e3ad3200000000000080bf0a0c19c05d979c40000000000000000000000000000080bf0000803f5d4acb3000000000000080bff64b27c084cf95c0000000000000000000000000000080bf0000803fc131f23300000000000080bf7b5f4ac024d5ff3f000000000000000000000000000080bf0000803fa34793b300000000000080bf7b5f4ac0988592c0000000000000000000000000000080bf0000803ffe3fe2b400000000000080bf38324b40086759c0000000000000000000000000000080bf0000803f0c97503500000000000080bf94194a40dffa5fc0000000000000000000000000000080bf0000803f1f0744b400000000000080bf38324b40dffa5fc0000000000000000000000000000080bf0000803f0000000000000000000080bf61e84740ac7f5ac0000000000000000000000000000080bf0000803f7296c83400000000000080bf61e8474097c95dc0000000000000000000000000000080bf0000803f65b49bb600000000000080bf00000000000000008f71653f804d293e22aa5d3f009b813d8f71653fff9aa83ddaf0533fc0e6ae3ecc123c3f009b813d6900353f009b863d9eb22f3fc0e6ae3e3e662d3f009b8c3deebd273fc0a6843eeebd273f009b923d0328693f009bd73dbffa683f009bd13d0328693f009bd13d3ba0683f009bd63d3ba0683f009bd33d0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 0.006431222, y: 0.011738777, z: 0}
+    m_Extent: {x: 3.168509, y: 4.881738, z: 0}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshMetrics[0]: 1
+  m_MeshMetrics[1]: 1
+  m_MeshOptimizationFlags: 1
+  m_StreamData:
+    offset: 0
+    size: 0
+    path: 
+--- !u!114 &8061757532959542438
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e715ea371f114f4a8d2584ad476634d, type: 3}
+  m_Name: MadreWalkSprites_13_Data
+  m_EditorClassIdentifier: 
+  m_PivotPoint: {x: 1941.2076, y: 708.99994}
+  m_Vertices:
+  - {x: 2222.7349, y: 579.99414}
+  - {x: 2147.3757, y: 222}
+  - {x: 2222.7349, y: 288.8027}
+  - {x: 2053.1768, y: 1198.3477}
+  - {x: 1821.9613, y: 222}
+  - {x: 1753.453, y: 230.56445}
+  - {x: 1702.0717, y: 1198.3477}
+  - {x: 1679.8065, y: 240.8418}
+  - {x: 1624.9999, y: 908.86914}
+  - {x: 1624.9999, y: 251.11914}
+  - {x: 2258.7017, y: 369.3086}
+  - {x: 2256.9888, y: 359.03125}
+  - {x: 2258.7017, y: 359.03125}
+  - {x: 2253.5635, y: 367.5957}
+  - {x: 2253.5635, y: 362.45703}
+  m_BoneWeights: []
+  m_Edges:
+  - index1: 14
+    index2: 13
+  - index1: 10
+    index2: 13
+  - index1: 14
+    index2: 11
+  - index1: 12
+    index2: 10
+  - index1: 12
+    index2: 11
+  - index1: 9
+    index2: 8
+  - index1: 6
+    index2: 8
+  - index1: 9
+    index2: 7
+  - index1: 3
+    index2: 6
+  - index1: 5
+    index2: 7
+  - index1: 0
+    index2: 3
+  - index1: 4
+    index2: 5
+  - index1: 1
+    index2: 4
+  - index1: 2
+    index2: 0
+  - index1: 2
+    index2: 1
+  m_Holes: []
+  m_Indices: 0e0000000d0000000b0000000a0000000b0000000d0000000c0000000b0000000a000000090000000800000007000000060000000700000008000000050000000700000006000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+  m_BindPoses: []
+  m_Blendshapes: []

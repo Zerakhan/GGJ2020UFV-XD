@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: ad680f8e200e49d409baf42f47bc93df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7955460535583959547
+    second: MadreWalkSprites_0
+  - first:
+      213: 1153659405456835170
+    second: MadreWalkSprites_1
+  - first:
+      213: -9103339717103065237
+    second: MadreWalkSprites_2
+  - first:
+      213: -1849954749013864502
+    second: MadreWalkSprites_3
+  - first:
+      213: 8193930658195939522
+    second: MadreWalkSprites_4
+  - first:
+      213: -2713399509474765501
+    second: MadreWalkSprites_5
+  - first:
+      213: -4463097448597211949
+    second: MadreWalkSprites_6
+  - first:
+      213: 9140390287139778784
+    second: MadreWalkSprites_7
+  - first:
+      213: 8699711644593320459
+    second: MadreWalkSprites_8
+  - first:
+      213: -4076240843485328353
+    second: MadreWalkSprites_9
+  - first:
+      213: 1589314125435801595
+    second: MadreWalkSprites_10
+  - first:
+      213: -5390948109881622664
+    second: MadreWalkSprites_11
+  - first:
+      213: 2509775222984552904
+    second: MadreWalkSprites_12
+  - first:
+      213: -6017576533402540534
+    second: MadreWalkSprites_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MadreWalkSprites_0
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 2666
+        width: 246
+        height: 694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50611efeac6889190800000000000000
+      internalID: -7955460535583959547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreWalkSprites_1
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2699
+        width: 234
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2620b0eed1f920010800000000000000
+      internalID: 1153659405456835170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreWalkSprites_2
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 3230
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67ed5442c07aa180800000000000000
+      internalID: -9103339717103065237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreWalkSprites_3
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 3190
+        width: 185
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf4b7e05f3a356e0800000000000000
+      internalID: -1849954749013864502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreWalkSprites_4
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 3093
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0a3f33580b6b170800000000000000
+      internalID: 8193930658195939522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreWalkSprites_5
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 3053
+        width: 68
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3459908b581185ad0800000000000000
+      internalID: -2713399509474765501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreWalkSprites_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1503
+        width: 234
+        height: 1182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4396a5484ef02c0800000000000000
+      internalID: -4463097448597211949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreWalkSprites_7
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1560
+        width: 263
+        height: 1169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0b56dc98039de70800000000000000
+      internalID: 9140390287139778784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreWalkSprites_8
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1926
+        width: 263
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b027050d5a59bb870800000000000000
+      internalID: 8699711644593320459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreWalkSprites_9
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 2330
+        width: 497
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c4e19bc884e67c0800000000000000
+      internalID: -4076240843485328353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreWalkSprites_10
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1453
+        width: 438
+        height: 759
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff8c1bc6c06e0610800000000000000
+      internalID: 1589314125435801595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreWalkSprites_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 152
+        width: 574
+        height: 1144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f31fba1418f25b0800000000000000
+      internalID: -5390948109881622664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreWalkSprites_12
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 152
+        width: 575
+        height: 1091
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c13218944384d220800000000000000
+      internalID: 2509775222984552904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreWalkSprites_13
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 222
+        width: 632
+        height: 974
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06a0dd76064d7ca0800000000000000
+      internalID: -6017576533402540534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 637162067395286730
+  assetBundleName: 
+  assetBundleVariant: 

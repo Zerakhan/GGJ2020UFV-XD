@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: 450a8b3c10cf0da4ba5aab74cc0469da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6104562078671063743
+    second: MadreIdleSpites_0
+  - first:
+      213: 3133361536306964283
+    second: MadreIdleSpites_1
+  - first:
+      213: -8305553207257884164
+    second: MadreIdleSpites_2
+  - first:
+      213: 8001768599433531394
+    second: MadreIdleSpites_3
+  - first:
+      213: -3376642965871150703
+    second: MadreIdleSpites_4
+  - first:
+      213: 1041821818896555319
+    second: MadreIdleSpites_5
+  - first:
+      213: 2759422879988198177
+    second: MadreIdleSpites_6
+  - first:
+      213: -8119100860128143265
+    second: MadreIdleSpites_7
+  - first:
+      213: 7349020204291693662
+    second: MadreIdleSpites_8
+  - first:
+      213: 6203795957480414752
+    second: MadreIdleSpites_9
+  - first:
+      213: 7722014483159575666
+    second: MadreIdleSpites_10
+  - first:
+      213: -7081436883545165316
+    second: MadreIdleSpites_11
+  - first:
+      213: -2692887277091302386
+    second: MadreIdleSpites_12
+  - first:
+      213: 8494269303190855949
+    second: MadreIdleSpites_13
+  - first:
+      213: 132484809592213684
+    second: MadreIdleSpites_14
+  - first:
+      213: -5392690184523225531
+    second: MadreIdleSpites_15
+  - first:
+      213: 8971608721381545261
+    second: MadreIdleSpites_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MadreIdleSpites_0
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 3379
+        width: 106
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba42800ed2c7b450800000000000000
+      internalID: 6104562078671063743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreIdleSpites_1
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 3256
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37e27c47bfeb7b20800000000000000
+      internalID: 3133361536306964283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreIdleSpites_2
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 2783
+        width: 445
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9994adc5fbcbc80800000000000000
+      internalID: -8305553207257884164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreIdleSpites_3
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 3275
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2005c10652efb0f60800000000000000
+      internalID: 8001768599433531394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreIdleSpites_4
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 2668
+        width: 167
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199bdeddc11c321d0800000000000000
+      internalID: -3376642965871150703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreIdleSpites_5
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 2716
+        width: 295
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d949aac6b457e00800000000000000
+      internalID: 1041821818896555319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreIdleSpites_6
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2985
+        width: 228
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b28c24d707b4620800000000000000
+      internalID: 2759422879988198177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreIdleSpites_7
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 3130
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f585e78d8c8235f80800000000000000
+      internalID: -8119100860128143265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreIdleSpites_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2063
+        width: 986
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c99f360f6fcf560800000000000000
+      internalID: 7349020204291693662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreIdleSpites_9
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 2672
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02edf90ed8f481650800000000000000
+      internalID: 6203795957480414752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreIdleSpites_10
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1488
+        width: 193
+        height: 1041
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ce52b624b1a2b60800000000000000
+      internalID: 7722014483159575666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreIdleSpites_11
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 2378
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1f0f86caea9bd90800000000000000
+      internalID: -7081436883545165316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreIdleSpites_12
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1710
+        width: 459
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04ddccf941f0aad0800000000000000
+      internalID: -2692887277091302386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreIdleSpites_13
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 606
+        width: 683
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01223b3de4b1e570800000000000000
+      internalID: 8494269303190855949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreIdleSpites_14
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 157
+        width: 569
+        height: 1053
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b011ed7b3ea6d100800000000000000
+      internalID: 132484809592213684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreIdleSpites_15
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 27
+        width: 301
+        height: 1240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546e1cf49d05925b0800000000000000
+      internalID: -5392690184523225531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadreIdleSpites_16
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 153
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d255eb5399e818c70800000000000000
+      internalID: 8971608721381545261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 637162021145574337
+  assetBundleName: 
+  assetBundleVariant: 

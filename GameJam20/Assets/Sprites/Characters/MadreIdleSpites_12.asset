@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &-5731400687424399370
+Mesh:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MadreIdleSpites_12
+  serializedVersion: 10
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 27
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 11
+    localAABB:
+      m_Center: {x: 0.0064709187, y: 0.005097151, z: 0}
+      m_Extent: {x: 2.3035913, y: 4.2650986, z: 0}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_BonesAABB: []
+  m_VariableBoneCountWeights:
+    m_Data: 
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 0200010000000000010003000300010004000400010005000100060005000600070005000800050007000700060009000a0009000600
+  m_VertexData:
+    serializedVersion: 3
+    m_VertexCount: 11
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 24
+      format: 0
+      dimension: 4
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 1
+      offset: 0
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 2
+      offset: 0
+      format: 0
+      dimension: 4
+    - stream: 2
+      offset: 16
+      format: 10
+      dimension: 4
+    m_DataSize: 896
+    _typelessdata: 0fd813408fc2963d000000000000000000000000000080bf0000803ffa4a003500000000000080bf0f1d004094d220c0000000000000000000000000000080bf0000803f7e24a7b400000000000080bf0fd81340d75caabf000000000000000000000000000080bf0000803fbe7877b600000000000080bf2914b73eec9d8240000000000000000000000000000080bf0000803fe719833400000000000080bf668631be71a58840000000000000000000000000000080bf0000803f05d9823300000000000080bfb8ea2fbf71a58840000000000000000000000000000080bf0000803f7e4174b400000000000080bf3d747abfee5188c0000000000000000000000000000080bf0000803f97443fb400000000000080bfe1c38ebff698fa3f000000000000000000000000000080bf0000803f8bf8043500000000000080bf522693bfe1aa2340000000000000000000000000000080bf0000803f39c4743500000000000080bf050413c02e4431c0000000000000000000000000000080bf0000803f6a12043500000000000080bf050413c0ee5188c0000000000000000000000000000080bf0000803f0000000000000000000080bf00000000000000000334643fff691c3f5605613fff89093f0334643fff29123f690c503fffa9393f5b914a3fff093b3f9243453fff093b3f2742423ffd93f93e14d8403fff292a3f8f7d403fff892e3f29a5343fffa9073f29a5343ffd93f93e000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 0.0064709187, y: 0.005097151, z: 0}
+    m_Extent: {x: 2.3035913, y: 4.2650986, z: 0}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshMetrics[0]: 1
+  m_MeshMetrics[1]: 1
+  m_MeshOptimizationFlags: 1
+  m_StreamData:
+    offset: 0
+    size: 0
+    path: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c10c0be6d28fe4d539c4a39822fe301c, type: 3}
+  m_Name: MadreIdleSpites_12
+  m_EditorClassIdentifier: 
+  m_ApiVersion: 4
+  m_Sprite: {fileID: -2692887277091302386, guid: f753fe7e6aa512c4d938c5d7a4aac269,
+    type: 3}
+  m_SharedMesh: {fileID: -5731400687424399370}
+  m_SharedMaterials: []
+--- !u!114 &566940444120590830
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e715ea371f114f4a8d2584ad476634d, type: 3}
+  m_Name: MadreIdleSpites_12_Data
+  m_EditorClassIdentifier: 
+  m_PivotPoint: {x: 1979.712, y: 2136}
+  m_Vertices:
+  - {x: 2210.7183, y: 2143.3613}
+  - {x: 2179.8894, y: 1884.7147}
+  - {x: 2210.7183, y: 2002.9042}
+  - {x: 2015.4696, y: 2544.1777}
+  - {x: 1962.3756, y: 2563.0195}
+  - {x: 1910.9945, y: 2563.0195}
+  - {x: 1881.8784, y: 1709.9999}
+  - {x: 1868.1768, y: 2331.7793}
+  - {x: 1864.7513, y: 2391.7305}
+  - {x: 1750, y: 1859.0214}
+  - {x: 1750, y: 1709.9999}
+  m_BoneWeights: []
+  m_Edges:
+  - index1: 10
+    index2: 9
+  - index1: 7
+    index2: 9
+  - index1: 10
+    index2: 6
+  - index1: 1
+    index2: 6
+  - index1: 8
+    index2: 5
+  - index1: 4
+    index2: 5
+  - index1: 8
+    index2: 7
+  - index1: 3
+    index2: 4
+  - index1: 0
+    index2: 3
+  - index1: 2
+    index2: 0
+  - index1: 2
+    index2: 1
+  m_Holes: []
+  m_Indices: 0a0000000900000006000000070000000600000009000000080000000500000007000000060000000700000005000000010000000600000005000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+  m_BindPoses: []
+  m_Blendshapes: []

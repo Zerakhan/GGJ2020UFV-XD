@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Scene2 : MonoBehaviour
 {
@@ -22,10 +23,6 @@ public class Scene2 : MonoBehaviour
     public GameObject bonto_sopa;
     public GameObject bonto_silla;
     public GameObject bonto_tenedor;
-
-
-    
-
 
     public bool follow_player;
     public bool yatengollave;
@@ -63,8 +60,6 @@ public class Scene2 : MonoBehaviour
         {
             Cam.transform.position = new Vector3(this.transform.position.x, 0, -10);
         }
-
-        
 
     }
 
@@ -244,17 +239,11 @@ public class Scene2 : MonoBehaviour
         Comida_error.text = "Creo que me han entendido";
         yield return new WaitForSeconds(2f);
         Comida_error.text = "";
+        SceneManager.LoadScene("Niveles");
         yield break;
     }
-
-
-
-
     public void SopaLetrasB1()
     {
-        
-        
-
         SopaLetras += 1;
         Debug.Log(SopaLetras);
 
@@ -268,7 +257,6 @@ public class Scene2 : MonoBehaviour
             SopaLetras = 0;
             Debug.Log("Start again");
             StartCoroutine(Error_comida());
-
         }
     }
     public void SopaLetrasB2()
