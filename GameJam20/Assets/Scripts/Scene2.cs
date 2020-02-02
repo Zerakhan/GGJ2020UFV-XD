@@ -24,6 +24,8 @@ public class Scene2 : MonoBehaviour
     public GameObject bonto_tenedor;
 
 
+    
+
 
     public bool follow_player;
     public bool yatengollave;
@@ -49,10 +51,10 @@ public class Scene2 : MonoBehaviour
         
 
         if (!lock_camara) return;
-        if (this.transform.position.x < 0 || cambio_cam)
+        if ((this.transform.position.x < 0) || (this.transform.position.x >18 ) ||( cambio_cam))
         {
             follow_player = false;
-        }else if (this.transform.position.x>0 || !cambio_cam)
+        }else if ((this.transform.position.x>0) ||(this.transform.position.x < 18) || (!cambio_cam))
         {
             follow_player = true;
         }
@@ -131,6 +133,7 @@ public class Scene2 : MonoBehaviour
     }
     public void Comida()
     {
+        cambio_cam = true;
         Text_Comedor.SetActive(false);
         follow_player = false;
         Cam.transform.position = new Vector3(22, 15, -10);
@@ -142,6 +145,7 @@ public class Scene2 : MonoBehaviour
     }
     public void Comedor()
     {
+        cambio_cam = false;
         comida_botones.SetActive(false);
         follow_player = true;
         Cam.transform.position = new Vector3(22, 0, -10);
@@ -229,9 +233,10 @@ public class Scene2 : MonoBehaviour
     }
     IEnumerator Error_comida()
     {
-        Comida_error.text = "Uy creo que me he equivocado. Empezaré de nuevo";
+        Comida_error.text = "Me he equivocado. Empezaré de nuevo";
         yield return new WaitForSeconds(2f);
         Comida_error.text = "";
+
         yield break;
     }
     IEnumerator comida_frase()
@@ -248,8 +253,7 @@ public class Scene2 : MonoBehaviour
     public void SopaLetrasB1()
     {
         
-        Button butt1 = bonto_quiero.GetComponent<Button>();
-        butt1.enabled=false;
+        
 
         SopaLetras += 1;
         Debug.Log(SopaLetras);
@@ -269,8 +273,7 @@ public class Scene2 : MonoBehaviour
     }
     public void SopaLetrasB2()
     {
-        Button butt2 = bonto_tomar.GetComponent<Button>();
-        butt2.enabled = false;
+        
         SopaLetras += 2;
         Debug.Log(SopaLetras);
         if (SopaLetras == 10)
@@ -288,8 +291,7 @@ public class Scene2 : MonoBehaviour
     }
     public void SopaLetrasB3()
     {
-        Button butt3 = bonto_esa.GetComponent<Button>();
-        butt3.enabled = false;
+        
         SopaLetras += 3;
 
         Debug.Log(SopaLetras);
@@ -308,8 +310,7 @@ public class Scene2 : MonoBehaviour
     }
     public void SopaLetrasB4()
     {
-        Button butt4 = bonto_sopa.GetComponent<Button>();
-        butt4.enabled = false;
+        
         SopaLetras += 4;
 
         Debug.Log(SopaLetras);
@@ -328,8 +329,7 @@ public class Scene2 : MonoBehaviour
     }
   public void SopaLetrasB5()
     {
-        Button butt5 = bonto_tenedor.GetComponent<Button>();
-        butt5.enabled = false;
+        
         SopaLetras += 50;
 
         Debug.Log(SopaLetras);
@@ -344,8 +344,7 @@ public class Scene2 : MonoBehaviour
     }
    public void SopaLetrasB6()
     {
-        Button butt6 = bonto_silla.GetComponent<Button>();
-        butt6.enabled = false;
+        
         SopaLetras += 60;
         if (SopaLetras > 10)
         {

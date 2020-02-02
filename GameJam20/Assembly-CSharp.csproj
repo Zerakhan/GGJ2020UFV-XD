@@ -93,6 +93,7 @@
     <Compile Include="Assets\Scripts\Movement.cs" />
     <Compile Include="Assets\Scripts\Scene1.cs" />
     <Compile Include="Assets\Scripts\Scene2.cs" />
+    <Compile Include="Assets\Scripts\Scene3.cs" />
     <Compile Include="Assets\Scripts\Scenes.cs" />
     <Compile Include="Assets\Scripts\School.cs" />
     <None Include="Assets\Anima2D\Readme.txt" />
